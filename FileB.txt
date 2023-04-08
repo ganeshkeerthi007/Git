@@ -1,3 +1,5 @@
 Hi 
 This is file B
 this is 2nd file
+this is 4th line
+this is 5th line
